@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opt-soap", "SoapWithOptionalRequestParam\opt-soap.csproj", "{45B970A4-7B57-41E9-925C-0EC0DA5F086B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opt-soap", "opt-soap\opt-soap.csproj", "{45B970A4-7B57-41E9-925C-0EC0DA5F086B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
